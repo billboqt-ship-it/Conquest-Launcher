@@ -1,10 +1,14 @@
 {
   "nouveautes": [
+      {
+      "date": "27 sept.",
+      "titre": "Ajout de contenu",
+      "texte": "Ajout de l'épée de Gram, de classe légendaire c'est l'épée qui terrassa autrefois le dragon Fafnir"
+    },
     {
       "date": "27 sept.",
       "titre": "Ouverture du launcher",
       "texte": "Le launcher Conquest arrive : connexion Microsoft, installation et mises à jour automatiques des mods."
-      "texte": "Ajout d'une arme légendaire : l'épée de Gram"
     },
     {
       "date": "26 sept.",
