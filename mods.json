@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "fichier": "factionrp-1.0.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.0.0.jar",
+      "sha1": "55c4fec03a8cfabb4db011429f315c524e6f315f",
+      "taille": 194606
+    },
+    {
+      "fichier": "mythical_arms-1.0.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.0.0.jar",
+      "sha1": "6adcfa5085b388be355f6193d857f0b91d87b077",
+      "taille": 121187
+    }
+  ]
+}
