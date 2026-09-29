@@ -1,15 +1,29 @@
 {
   "nouveautes": [
-
-   {
+    {
+      "date": "30 sept.",
+      "titre": "Chapitre 1 : Crépuscule des Dieux",
+      "texte": "Ouverture du premier chapitre avec l'introduction de créature mythiques."
+    },
+    {
+      "date": "30 sept.",
+      "titre": "Armes épiques",
+      "texte": "Hache de Berserker, Arc d'Ullr, Seax de l'Ombre, Marteau de Völund et le bouclier Brisingamen : chacune avec son pouvoir, à forger dès l'Artisan niveau 20."
+    },
+    {
+      "date": "30 sept.",
+      "titre": "Fer noir et if d'Ýdalir",
+      "texte": "Deux matériaux rares : le fer noir s'éveille dans la deepslate pour les Mineurs niveau 25, l'if d'Ýdalir pousse près des conifères pour les Bûcherons niveau 20."
+    },
+    {
+      "date": "30 sept.",
+      "titre": "Livre de l'Artisan",
+      "texte": "Recettes classées par niveau et liste défilante. Les équipements légendaires s'ouvrent désormais après le niveau 40, l'épée de Gram au niveau 50."
+    },
+    {
       "date": "29 sept.",
-      "titre": "Ajout des compétences",
-      "texte": "Ajout de compétences permettant une progression in game"
-    },   
-      {
-      "date": "27 sept.",
-      "titre": "Ajout de contenu",
-      "texte": "Ajout de l'épée de Gram, de classe légendaire c'est l'épée qui terrassa autrefois le dragon Fafnir"
+      "titre": "Compétences et nouvelle interface",
+      "texte": "Quatre compétences à monter (Guerrier, Mineur, Bûcheron, Artisan) avec leurs paliers et un livre de recettes exclusives, une interface de faction entièrement retravaillée et une île de spawn viking."
     },
     {
       "date": "27 sept.",
