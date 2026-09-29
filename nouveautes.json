@@ -1,5 +1,11 @@
 {
   "nouveautes": [
+
+   {
+      "date": "29 sept.",
+      "titre": "Ajout des compétences",
+      "texte": "Ajout de compétences permettant une progression in game"
+    },   
       {
       "date": "27 sept.",
       "titre": "Ajout de contenu",
