@@ -3,32 +3,32 @@
     {
       "fichier": "conquestadmin-1.3.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.3.0.jar",
-      "sha1": "46a1cc944cbcf17a4010c7ef4ce7d7c03b665139",
+      "sha1": "2a81758000f972a96a004c405bbae8e529f9ce1b",
       "taille": 146883
     },
     {
       "fichier": "conquestblocks-1.6.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestblocks-1.6.0.jar",
-      "sha1": "5d3344eaefa138b02dc0c54aecbb429d005e2ab2",
+      "sha1": "7b677101ce763702e703318b9fcbbf0c4fe4a0dc",
       "taille": 654348
     },
     {
       "fichier": "conquestworld-1.10.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestworld-1.10.0.jar",
-      "sha1": "8b3dfbad5c97f880e140efc22aa0d4906c2f1b3a",
+      "sha1": "51a3dce0d23fcbd481de47d53e3b838a487c73c0",
       "taille": 8821241
     },
     {
-      "fichier": "factionrp-1.15.0.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.15.0.jar",
-      "sha1": "6c77c0e73376882a57e0f46b81ec9e99b637c259",
-      "taille": 1649878
+      "fichier": "factionrp-1.18.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.18.0.jar",
+      "sha1": "4cee950c02c605243b77c9a4c51a76931c7b62f4",
+      "taille": 4304610
     },
     {
-      "fichier": "mythical_arms-1.5.1.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.5.1.jar",
-      "sha1": "17665338799d79ad8cd1c2c027d8f0f1f50150d4",
-      "taille": 626807
+      "fichier": "mythical_arms-1.6.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.6.0.jar",
+      "sha1": "416d02c61204c9047af35443cf04d6b20b0a3579",
+      "taille": 628726
     },
     {
       "fichier": "sodium-neoforge-0.6.13+mc1.21.1.jar",
