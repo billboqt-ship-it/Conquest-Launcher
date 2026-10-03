@@ -1,14 +1,29 @@
 {
   "nouveautes": [
     {
+      "date": "2 oct.",
+      "titre": "Grandes retouches de la bêta",
+      "texte": "Combats plus longs (armures renforcées), nouveaux pouvoirs sur Gram, l'armure de l'Einherjar et Gungnir, /f autoclaim et claim des chunks de bordure, tchat allégé, messages de connexion refaits, grade et pays sur deux lignes au-dessus de la tête, tribut de guerre revu (10 % de l'argent de chaque vaincu), jauge de démontage visible et catalogue des blocs dans la compétence Architecte."
+    },
+    {
+      "date": "2 oct.",
+      "titre": "Nouveau menu du pays",
+      "texte": "Le menu faction fait peau neuve : plus grand, en-tête du pays, compteurs dans le menu, têtes des membres, diplomatie et banque repensées, défilement fluide. Les fenêtres liées (drapeau, guerre, traité, assauts…) suivent le même style."
+    },
+    {
+      "date": "2 oct.",
+      "titre": "Équilibrage de la bêta",
+      "texte": "Le marchand ne rachète plus sans limite, les primes se prennent dans la bourse de l'ennemi, les niveaux de pays coûtent plus cher et les assauts comptent 5 joueurs au plus par camp. Les pouvoirs des armes et armures mythiques épargnent désormais tes alliés."
+    },
+    {
       "date": "30 sept.",
       "titre": "Chapitre 1 : Crépuscule des Dieux",
-      "texte": "Ouverture du premier chapitre avec l'introduction de créature mythiques."
+      "texte": "Un nouveau menu principal : dans le Nord, un voyageur s'avance vers la grotte où Níðhöggr ronge les racines d'Yggdrasil… État du serveur en direct et carte de ton personnage."
     },
     {
       "date": "30 sept.",
       "titre": "Armes épiques",
-      "texte": "Hache de Berserker, Arc d'Ullr, Seax de l'Ombre, Marteau de Völund et le bouclier Brisingamen : chacune avec son pouvoir, à forger dès l'Artisan niveau 20."
+      "texte": "Hache de Berserker, Arc d'Ullr, Seax de l'Ombre, Marteau de Völund et le bouclier Brisingamen : chacune avec son pouvoir, à forger dès Artisan niveau 20."
     },
     {
       "date": "30 sept.",
