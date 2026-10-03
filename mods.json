@@ -3,32 +3,32 @@
     {
       "fichier": "conquestadmin-1.4.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.4.0.jar",
-      "sha1": "995649dccc56ded8402466c8d2b8bcdc5e8e737d",
-      "taille": 220717
+      "sha1": "8247819dcbdcee3c9f863e0da60fe7bebda84152",
+      "taille": 220818
     },
     {
-      "fichier": "conquestblocks-1.6.0.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestblocks-1.6.0.jar",
-      "sha1": "1702bf1760da9d2c1f0d2aee11abcf30fe55736f",
-      "taille": 654348
+      "fichier": "conquestblocks-1.7.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestblocks-1.7.0.jar",
+      "sha1": "d4df648448c555e6a54e19c3b33fdea317032143",
+      "taille": 1387268
     },
     {
       "fichier": "conquestworld-1.10.1.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestworld-1.10.1.jar",
-      "sha1": "b19f4732a6af4b63ba181de5c7dd9598b9e7c220",
+      "sha1": "650d8851a7f7a52f0551594e60b264a3e34cd0ba",
       "taille": 8821321
     },
     {
-      "fichier": "factionrp-1.21.0.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.21.0.jar",
-      "sha1": "401425c481d2a8d88ef0c24f9945e4335ae7ee98",
-      "taille": 4337047
+      "fichier": "factionrp-1.21.1.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.21.1.jar",
+      "sha1": "a06d0b8869c8316719cba7ea1ad4d417fcced18d",
+      "taille": 5277392
     },
     {
       "fichier": "mythical_arms-1.7.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.7.0.jar",
-      "sha1": "cd0ab91197d89a21a5c37d35849eddcdbc4d5643",
-      "taille": 630182
+      "sha1": "8e78b8a9946fda3b6f3cfa3229fd928faeec7258",
+      "taille": 6304052
     },
     {
       "fichier": "sodium-neoforge-0.6.13+mc1.21.1.jar",
