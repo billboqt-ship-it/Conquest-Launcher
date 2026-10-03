@@ -1,6 +1,11 @@
 {
   "nouveautes": [
     {
+      "date": "3 oct.",
+      "titre": "Warzone plafonnée",
+      "texte": "La warzone des Alpes rapporte au plus 4 h par jour et par pays (480 XP, 2 400 $) et 2 captures récompensées ; elle reste capturable ensuite. Ton propre grade et ton pays ne s'affichent plus au-dessus de ta tête."
+    },
+    {
       "date": "2 oct.",
       "titre": "Grandes retouches de la bêta",
       "texte": "Combats plus longs (armures renforcées), nouveaux pouvoirs sur Gram, l'armure de l'Einherjar et Gungnir, /f autoclaim et claim des chunks de bordure, tchat allégé, messages de connexion refaits, grade et pays sur deux lignes au-dessus de la tête, tribut de guerre revu (10 % de l'argent de chaque vaincu), jauge de démontage visible et catalogue des blocs dans la compétence Architecte."
