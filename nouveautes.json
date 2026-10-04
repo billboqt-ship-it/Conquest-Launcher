@@ -1,6 +1,11 @@
 {
   "nouveautes": [
     {
+      "date": "4 oct.",
+      "titre": "Temples et autels des dieux",
+      "texte": "Nouvelle mécanique de gameplay : les Dieux te prêtent leurs pouvoir contre ton allégeance !"
+    },
+    {
       "date": "3 oct.",
       "titre": "Warzone plafonnée",
       "texte": "La warzone des Alpes rapporte au plus 4 h par jour et par pays (480 XP, 2 400 $) et 2 captures récompensées ; elle reste capturable ensuite. Ton propre grade et ton pays ne s'affichent plus au-dessus de ta tête."
@@ -8,12 +13,7 @@
     {
       "date": "2 oct.",
       "titre": "Grandes retouches de la bêta",
-      "texte": "Combats plus longs (armures renforcées), nouveaux pouvoirs sur Gram, l'armure de l'Einherjar et Gungnir, /f autoclaim et claim des chunks de bordure, tchat allégé, messages de connexion refaits, grade et pays sur deux lignes au-dessus de la tête, tribut de guerre revu (10 % de l'argent de chaque vaincu), jauge de démontage visible et catalogue des blocs dans la compétence Architecte."
-    },
-    {
-      "date": "2 oct.",
-      "titre": "Nouveau menu du pays",
-      "texte": "Le menu faction fait peau neuve : plus grand, en-tête du pays, compteurs dans le menu, têtes des membres, diplomatie et banque repensées, défilement fluide. Les fenêtres liées (drapeau, guerre, traité, assauts…) suivent le même style."
+      "texte": "Combats plus longs (armures renforcées), nouveaux pouvoirs sur Gram, l'armure de l'Einherjar et Gungnir, tchat allégé, messages de connexion refaits,tribut de guerre revu (10 % de l'argent de chaque vaincu), jauge de démontage visible et catalogue des blocs dans la compétence Architecte."
     },
     {
       "date": "2 oct.",
@@ -30,30 +30,5 @@
       "titre": "Armes épiques",
       "texte": "Hache de Berserker, Arc d'Ullr, Seax de l'Ombre, Marteau de Völund et le bouclier Brisingamen : chacune avec son pouvoir, à forger dès Artisan niveau 20."
     },
-    {
-      "date": "30 sept.",
-      "titre": "Fer noir et if d'Ýdalir",
-      "texte": "Deux matériaux rares : le fer noir s'éveille dans la deepslate pour les Mineurs niveau 25, l'if d'Ýdalir pousse près des conifères pour les Bûcherons niveau 20."
-    },
-    {
-      "date": "30 sept.",
-      "titre": "Livre de l'Artisan",
-      "texte": "Recettes classées par niveau et liste défilante. Les équipements légendaires s'ouvrent désormais après le niveau 40, l'épée de Gram au niveau 50."
-    },
-    {
-      "date": "29 sept.",
-      "titre": "Compétences et nouvelle interface",
-      "texte": "Quatre compétences à monter (Guerrier, Mineur, Bûcheron, Artisan) avec leurs paliers et un livre de recettes exclusives, une interface de faction entièrement retravaillée et une île de spawn viking."
-    },
-    {
-      "date": "27 sept.",
-      "titre": "Ouverture du launcher",
-      "texte": "Le launcher Conquest arrive : connexion Microsoft, installation et mises à jour automatiques des mods."
-    },
-    {
-      "date": "26 sept.",
-      "titre": "Système d'assauts",
-      "texte": "Déclarez la guerre, lancez des assauts et capturez les zones ennemies."
-    }
   ]
 }
