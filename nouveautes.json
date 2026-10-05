@@ -1,5 +1,10 @@
 {
   "nouveautes": [
+      {
+      "date": "5 oct.",
+      "titre": "Meule runique",
+      "texte": "Ajout de la meule runique, elle te permet de réparer tes items contre de l'expérience (elle remplace l'enchantement mending)"
+    },
     {
       "date": "4 oct.",
       "titre": "Temples et autels des dieux",
