@@ -1,33 +1,33 @@
 {
   "mods": [
     {
-      "fichier": "conquestadmin-1.6.0.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.6.0.jar",
-      "sha1": "1e0cd1cde73a3d2131e12f0dbb5185bdde8a6d2c",
-      "taille": 289967
+      "fichier": "conquestadmin-1.7.0.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.7.0.jar",
+      "sha1": "68ca92f10a7b4e8e1c9f119b2e5238e3e5a444b2",
+      "taille": 294345
     },
     {
       "fichier": "conquestblocks-1.7.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestblocks-1.7.0.jar",
-      "sha1": "9cc4571b0172c0c0e2deee5c8bea78f1ecedb7d1",
+      "sha1": "ed28d95e11338db035a0cb4d3c40fe99c4e1e7ac",
       "taille": 1531821
     },
     {
-      "fichier": "conquestworld-1.14.0.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestworld-1.14.0.jar",
-      "sha1": "99e8222b4987d48727cf0b956bf5fc69bc30a314",
-      "taille": 16662638
+      "fichier": "conquestworld-1.14.1.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestworld-1.14.1.jar",
+      "sha1": "fa18b36a0136532ea33b5862555d3364baa72bd0",
+      "taille": 16663139
     },
     {
-      "fichier": "factionrp-1.28.2.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.28.2.jar",
-      "sha1": "8b09cfa31e1544b831570352d1b9eae02364d6db",
-      "taille": 5704834
+      "fichier": "factionrp-1.33.2.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.33.2.jar",
+      "sha1": "81fdd2bb5b3910d17cf1611c391fc1fe1b4dacac",
+      "taille": 6983519
     },
     {
       "fichier": "mythical_arms-1.8.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.8.0.jar",
-      "sha1": "1f85ce528a93559c017cc4c1072c327d49b4f8f7",
+      "sha1": "b25a490b82ab066b0fbb7958debcff39181d9d97",
       "taille": 6684119
     },
     {
