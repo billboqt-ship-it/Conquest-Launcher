@@ -1,33 +1,33 @@
 {
   "mods": [
     {
-      "fichier": "conquestadmin-1.7.9.jar",
-      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.7.9.jar",
-      "sha1": "840266e917e8e4a991f0c536b997b42fd6006f5f",
-      "taille": 299048
+      "fichier": "conquestadmin-1.7.10.jar",
+      "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestadmin-1.7.10.jar",
+      "sha1": "838da7e147301fb60c13989917a050ac3e8d327c",
+      "taille": 299493
     },
     {
       "fichier": "conquestblocks-1.7.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestblocks-1.7.0.jar",
-      "sha1": "618c6eb2d8d1ebd7bc1e306eb52406d4e1871125",
+      "sha1": "e1323453478dcabf450a0d4cae2112a416cd97d3",
       "taille": 1531821
     },
     {
       "fichier": "conquestworld-1.15.69.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/conquestworld-1.15.69.jar",
-      "sha1": "e8d3f91dcebc59814247a960d6c9a0137e6d8df5",
-      "taille": 20858275
+      "sha1": "0b7631634e76225f52903a7151a8dd4b2a5f16a7",
+      "taille": 20858280
     },
     {
       "fichier": "factionrp-1.45.15.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/factionrp-1.45.15.jar",
-      "sha1": "43c31714225fefdd60214bfb9cb90ef5a3b97c15",
+      "sha1": "5298ea2225246ef21181b0b748fb6b7da73ac25a",
       "taille": 8888671
     },
     {
       "fichier": "mythical_arms-1.8.0.jar",
       "url": "https://github.com/billboqt-ship-it/Conquest-Launcher/releases/download/mods/mythical_arms-1.8.0.jar",
-      "sha1": "0f0a052ab93d1d6a0818eeceee5c76ef45a9beba",
+      "sha1": "6deed02f0567983e2fcd3e60519cfc5010e3badc",
       "taille": 6684119
     },
     {
